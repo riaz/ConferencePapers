@@ -1,0 +1,7 @@
+lxml
+pandas
+bs4
+requests
+sentence-transformers
+hnswlib
+py-markdown-table
